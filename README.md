@@ -1,2 +1,2 @@
 #hi
- https://mhmdeleikish.github.io/akashcar//
+ https://mhmdeleikish.github.io/akashcar/
